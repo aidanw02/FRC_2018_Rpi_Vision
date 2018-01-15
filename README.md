@@ -3,6 +3,7 @@ Code for raspberry pi running python and grip to do vision processing
 
 The steps I followed are listed below.
 
+
 STEP 1. Install and setup of raspbian lite
 1. Installed Raspbian stretch light
 2. Changed password, hostname, memory split to 16
