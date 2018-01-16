@@ -10,9 +10,8 @@ STEP 1. Install and setup of raspbian lite
 3. Enable SSH, and I2c
 4. Setup networks on lite. had to copy files from old raspberry pi sd. 
 5. Connect via SSH and putty
-6. Update and upgrade everything-----
-
-STEP 2.  Install opencv
+6. Update and upgrade everything
+STEP 2. Install opencv
 7. Follow  www.pyimagesearch.com to install opencv, and python3
 8.  Just finished numpy install. On step #5
 9. Continue setting up opencv on Raspberry Pi. just about to start step 6. 
@@ -22,8 +21,7 @@ STEP 2.  Install opencv
 13. Installed pynetworktables on Pi
 14. Update & upgraded Raspberry Pi
 15. Finished opencv install guide successfully 
-16. Read image to computer with win32DiskImager-----
-
+16. Read image to computer with win32DiskImager
 STEP 3. Get pynetworktables working
 17. Setup Robrio with latest Image  note:The Roborio image and Robotpy versions have to match
 18. Installed RobotPy on Roborio [These insructions](http://robotpy.readthedocs.io/en/stable/install/robot.html#install-robotpy)    note: Pynetworktables is included in the Robotpy install
