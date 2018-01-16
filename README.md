@@ -24,7 +24,7 @@ STEP 1. Install and setup of raspbian lite
 16. Read image to computer with win32DiskImager-----
    STEP 3. Get pynetworktables working
 17. Setup Robrio with latest Image  note:The Roborio image and Robotpy versions have to match
-18. Installed RobotPy on Roborio These Instructions    note: Pynetworktables is included in the Robotpy install
+18. Installed RobotPy on Roborio [These insructions](http://robotpy.readthedocs.io/en/stable/install/robot.html#install-robotpy)    note: Pynetworktables is included in the Robotpy install
 19. Installed pyfrc with pip3 on Rpi   note: Pynetworktables is included in the pyfrc install
 20. Used the example code to test the connection between the Rpi and Roborio on our local network
 21. Connected Rpi and Roborio to FRC radio via ethernet cable
