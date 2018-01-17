@@ -1,6 +1,8 @@
 # RaspberryPi_Vision_2018
 Code for raspberry pi running python and grip to do vision processing
 
+"""Please note that this code is in a early development stage and not yet complete!""" 
+
 The steps I followed are listed below.
 
 
