@@ -34,7 +34,7 @@ STEP 2. Install opencv
 
 16. Read image to computer with win32DiskImager
 
-STEP 3. Get pynetworktables working
+STEP 3. Get pynetworktables working 
 17. Setup Robrio with latest Image  note:The Roborio image and Robotpy versions have to match
 
 18. Installed RobotPy on Roborio [These insructions](http://robotpy.readthedocs.io/en/stable/install/robot.html#install-robotpy)    
