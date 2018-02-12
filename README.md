@@ -1,5 +1,5 @@
 # FRC_2018_Rpi_Vision
-"""Please note that this code is in a early development stage and not yet complete!""" 
+"""Please note that this code is in a early development stage.""" 
 
 This Code is Intended to run on a raspberry pi 3 that is conected to the robot radio.
 It starts a mjpg server with the three camera streams on it.
